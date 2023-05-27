@@ -56,3 +56,28 @@ Outputs
 ![Screenshot 2023-05-22 081545](https://github.com/Kartik200428/DSA-lab/assets/121052859/2f2cfff3-8828-438d-8b0e-4b62d83559d6)
 ![Screenshot 2023-05-22 081601](https://github.com/Kartik200428/DSA-lab/assets/121052859/4a20dc83-6d17-4899-8550-67f244e66374)
 
+9)
+![Screenshot 2023-05-22 083356](https://github.com/Kartik200428/DSA-lab/assets/121052859/52250727-a850-44df-b5f5-9288cdfc24e3)
+![Screenshot 2023-05-22 083413](https://github.com/Kartik200428/DSA-lab/assets/121052859/9d97862a-a514-416f-ab29-cce13d9963d7)
+![Screenshot 2023-05-22 083421](https://github.com/Kartik200428/DSA-lab/assets/121052859/e02301d8-26bc-42d1-aad2-395a489a2668)
+![Screenshot 2023-05-22 083432](https://github.com/Kartik200428/DSA-lab/assets/121052859/106402e7-743d-40a7-a3db-ad9a11d9efdd)
+![Screenshot 2023-05-22 083443](https://github.com/Kartik200428/DSA-lab/assets/121052859/4a654225-5218-4b03-9e7f-722684f67d3e)
+![Screenshot 2023-05-22 083450](https://github.com/Kartik200428/DSA-lab/assets/121052859/3a552170-1e8d-44e2-afc2-fcc4fe3a8291)
+![Screenshot 2023-05-22 083457](https://github.com/Kartik200428/DSA-lab/assets/121052859/15bef74a-8d1d-4d77-8436-0f150562dfa0)
+![Screenshot 2023-05-22 083503](https://github.com/Kartik200428/DSA-lab/assets/121052859/54dc2358-1363-4314-8941-e05a015eb9e0)
+![Screenshot 2023-05-22 083510](https://github.com/Kartik200428/DSA-lab/assets/121052859/f16c9209-2c8d-4caf-8fd2-71f0d187c3b2)
+![Screenshot 2023-05-22 083516](https://github.com/Kartik200428/DSA-lab/assets/121052859/7f868173-894d-42c3-a32a-c14e8c3b9e93)
+![Screenshot 2023-05-22 083521](https://github.com/Kartik200428/DSA-lab/assets/121052859/480a82bb-4f8f-4290-9cdb-b27f63b72a14)
+![Screenshot 2023-05-22 083528](https://github.com/Kartik200428/DSA-lab/assets/121052859/378f761c-d860-4707-a85f-40c7f0c281c5)
+![Screenshot 2023-05-22 083533](https://github.com/Kartik200428/DSA-lab/assets/121052859/17506e1a-bfa9-463f-80d4-e6bc16366e05)
+![Screenshot 2023-05-22 083542](https://github.com/Kartik200428/DSA-lab/assets/121052859/118cc60a-53d8-4200-995f-0304870f5d58)
+
+10)
+![Screenshot 2023-05-22 083743](https://github.com/Kartik200428/DSA-lab/assets/121052859/24074e2b-e8b2-4666-9dfd-637a692fff7f)
+![Screenshot 2023-05-22 083750](https://github.com/Kartik200428/DSA-lab/assets/121052859/8436018b-5b92-48f0-ada8-57eece2e690d)
+![Screenshot 2023-05-22 083758](https://github.com/Kartik200428/DSA-lab/assets/121052859/185f91b4-0593-4280-b39b-324c93a3be73)
+![Screenshot 2023-05-22 083808](https://github.com/Kartik200428/DSA-lab/assets/121052859/537326ef-a175-4399-8887-5b229e32bb50)
+![Screenshot 2023-05-22 083817](https://github.com/Kartik200428/DSA-lab/assets/121052859/11c3344e-10ce-48fb-8bea-7ddafd965fb1)
+
+
+
