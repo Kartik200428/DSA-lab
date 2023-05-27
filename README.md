@@ -86,10 +86,13 @@ Outputs
 ![Screenshot 2023-05-27 173348](https://github.com/Kartik200428/DSA-lab/assets/121052859/21376d93-eedf-4878-a758-a1343c06aaf3)
 
 13)
-![Screenshot 2023-05-27 173606](https://github.com/Kartik200428/DSA-lab/assets/121052859/c62f2f77-3ace-45bc-aa50-5b86317229dc)
+![Screenshot 2023-05-27 174816](https://github.com/Kartik200428/DSA-lab/assets/121052859/f06fc4ae-5e26-4c40-9c55-5fefbcc7f5fd)
 
 14)
-![Screenshot 2023-05-27 173729](https://github.com/Kartik200428/DSA-lab/assets/121052859/1f29342c-47f9-4fa8-b0bb-b75be7d66b54)
+![Screenshot 2023-05-27 173606](https://github.com/Kartik200428/DSA-lab/assets/121052859/c62f2f77-3ace-45bc-aa50-5b86317229dc)
 
 15)
+![Screenshot 2023-05-27 173729](https://github.com/Kartik200428/DSA-lab/assets/121052859/1f29342c-47f9-4fa8-b0bb-b75be7d66b54)
+
+16)
 ![Screenshot 2023-05-27 173827](https://github.com/Kartik200428/DSA-lab/assets/121052859/71709052-545c-4640-a81f-cd41b8a109ee)
