@@ -13,6 +13,7 @@ Outputs
 ![Screenshot 2023-04-15 120727](https://user-images.githubusercontent.com/121052859/232192785-7c50b2bf-ea4f-4cc3-b785-6c24a68ff2f3.png)
 
 3)
+![Screenshot 2023-05-27 175312](https://github.com/Kartik200428/DSA-lab/assets/121052859/6d8b7174-03e5-4922-98c3-2c0c5c0ee746)
 ![Screenshot 2023-04-15 121036](https://user-images.githubusercontent.com/121052859/232192836-1d772d59-278d-49e5-92ab-1fc6f9f19d72.png)
 
 4)
